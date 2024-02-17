@@ -1,0 +1,144 @@
+
+.banner{
+    padding-top: 170px;
+    color:white;
+    text-align: center;
+    background-image: url(./resources/Banner\ Image.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+
+    height: 400px;
+
+
+}
+.offer{
+color:red;
+    text-align: center;
+    
+}
+.offerimg{
+    width: 250px;
+    height: 250px;
+}
+.welcome{
+    color:white;
+    display: flex;
+    
+    background-image: url(./resources/Vectorrr.png);
+    background-color: cover;
+    background-position: center;
+    
+    justify-content: space-around;
+    height:300px;
+
+
+}
+.welcome img{
+    width: 250px;
+    height: 250px;
+}
+.info{
+text-align: center;
+font-size: 35px;
+background-color: hotpink;
+}
+.info-item{
+    color:red;
+}
+.btn{
+    background-color: red;
+    color:white;
+    text-align: center;
+    border: none;
+    border-radius: 10px;
+    font-size: 20px;
+}
+.commingsoon{
+    margin:10px;   
+    padding-top: 10px;
+    
+display: flex;
+justify-content: space-around;
+
+}
+.commingsoonimg{
+    border: 2px solid red;
+    border-radius: 50%;
+    padding:8px;
+    width: 350px;
+    height: 350px;
+
+}
+
+
+.happyimg{
+    width: 150px;
+    height: 150px;
+}
+.rowone{
+    display:flex;
+    justify-content: space-around;
+}
+.rowtwo{
+    display:flex;
+    justify-content: space-around;
+}
+ .mail{
+    margin: 50px;
+    padding:40px;
+    text-align: center;
+    background-color: peachpuff ;
+ }
+ .mail img{
+    width: 70px;
+    height: 70px;
+ }
+.contactinfo{
+
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: black;
+    color:white; 
+    /* border-bottom: 1px solid white; */
+    
+}
+.icon{
+    
+    display: flex;
+    gap:20px;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+}
+.reserved{
+    
+    display: flex;
+    justify-content:space-between;
+    color:white;
+    background-color: black;
+}
+.giftimg{
+    width: 250px;
+    height: 250px;
+}
+.holiday{
+    text-align: center;
+
+}
+.hoidaysimge{
+    display: flex;
+
+}
+.images{
+    width:220px;
+    height: 200px;
+}
+.group{
+    margin-right: -3000px;
+}
+.first:hover{
+    border:2px solid red;
+    border-radius: 10px;
+
+}
